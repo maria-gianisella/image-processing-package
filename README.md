@@ -1,27 +1,30 @@
-# package_name
+# image-processing-package
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package image-processing-package is used to:
+	- find differences between two images
+	- transfer histograms from an image to another
+	- resize images
+	- read and save images
+	- plot images, results of transformations and histograms
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image-processing-package
 
 ```bash
-pip install package_name
+pip install image-processing-package
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from image-processing-package.processing import combination
+combination.find_difference()
 ```
 
 ## Author
-My_name
+Maria Gianisella
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
