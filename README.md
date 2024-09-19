@@ -1,12 +1,12 @@
 # image-processing-package
 
-Description. 
+Description: 
 The package image-processing-package is used to:
-	- find differences between two images
-	- transfer histograms from an image to another
-	- resize images
-	- read and save images
-	- plot images, results of transformations and histograms
+- find differences between two images
+- transfer histograms from an image to another
+- resize images
+- read and save images
+- plot images, results of transformations and histograms
 
 ## Installation
 
