@@ -21,7 +21,7 @@ The package image-processing-package is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image-processing-package
 
 ```bash
-pip install image-processing-package
+pip install image-processing-package-mariagianisella
 ```
 
 ## Usage
