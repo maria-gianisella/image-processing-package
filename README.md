@@ -1,6 +1,6 @@
 # image-processing-package
 
-Description:
+## Description
 
 The package image-processing-package is used to:
 
